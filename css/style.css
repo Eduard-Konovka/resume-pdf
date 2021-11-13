@@ -12,7 +12,7 @@ body {
   flex-direction: row-reverse;
   width: 1600px;
   height: 2262px;
-  background-color: #fff;
+  background-color: #ffffff;
   /* margin: 40px auto; */
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
@@ -53,7 +53,7 @@ body {
   font-weight: bold;
   font-size: 18px;
   line-height: 22px;
-  color: #fff;
+  color: #ffffff;
   padding: 13px;
   margin-bottom: 25px;
   border-radius: 25px;
@@ -64,7 +64,7 @@ body {
   font-weight: bold;
   font-size: 57px;
   line-height: 70px;
-  color: #000;
+  color: #000000;
   margin-bottom: 32px;
 }
 
@@ -76,7 +76,7 @@ body {
   font-size: 20px;
   line-height: 30px;
   background-color: #303030;
-  color: #fff;
+  color: #ffffff;
 }
 
 /* My progects section */
@@ -90,7 +90,7 @@ body {
 }
 
 .my-progects-item {
-  color: #000;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -230,13 +230,13 @@ img {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
-  color: #fff;
+  color: #ffffff;
   opacity: 0.5;
   text-decoration: none;
 }
 
 .contacts-section-link:hover {
-  color: #fff;
+  color: #ffffff;
   opacity: 1;
 }
 
@@ -255,5 +255,5 @@ img {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
-  color: #fff;
+  color: #ffffff;
 }
