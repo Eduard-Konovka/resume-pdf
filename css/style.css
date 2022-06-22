@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 
-/* Mine container */
+/*#region MINE CONTAINER */
 
 .mine-container {
   display: flex;
@@ -17,7 +17,9 @@ body {
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
-/* Main contant section */
+/*#endregion MINE CONTAINER */
+
+/*#region MINE CONTANT SECTION */
 
 .main-contant-section {
   padding: 50px 0px 50px 0px;
@@ -35,9 +37,9 @@ body {
   color: #000000;
   margin: 25px 0 13px 0;
 }
+/*#endregion MINE CONTANT SECTION */
 
-/* About me section */
-
+/*#region ABOUT ME SECTION */
 .about-me-section {
   height: 534px;
   padding: 55px 115px 0 115px;
@@ -78,23 +80,23 @@ body {
   background-color: #303030;
   color: #ffffff;
 }
+/*#endregion ABOUT ME SECTION */
 
-/* My progects section */
-
-.my-progects-section {
+/*#region MY PROJECTS SECTION */
+.my-projects-section {
   margin-bottom: 63px;
 }
 
-.my-progects-list {
+.my-projects-list {
   padding: 0 20px 0 22px;
 }
 
-.my-progects-item {
+.my-projects-item {
   color: #000000;
   font-weight: 700;
 }
 
-.my-progects-text {
+.my-projects-text {
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -105,7 +107,7 @@ body {
   color: #595959;
   margin-left: 5px;
 }
-.my-progects-link {
+.my-projects-link {
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -113,7 +115,7 @@ body {
   color: #595959;
 }
 
-.my-progects-bracket {
+.my-projects-bracket {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -121,13 +123,13 @@ body {
   color: #000000;
 }
 
-.my-progects-description {
+.my-projects-description {
   font-weight: 500;
   margin: 0 0 10px 5px;
 }
+/*#endregion MY PROJECTS SECTION */
 
-/* My work expirience section */
-
+/*#region MY WORK EXPIRIENCE SECTION */
 .my-work-experience-company-block {
   margin: 0 0 0 0;
 }
@@ -173,9 +175,9 @@ body {
 .my-work-experience-company {
   color: #bd3208;
 }
+/*#endregion MY WORK EXPIRIENCE SECTION */
 
-/* My education section */
-
+/*#region MY EDUCATION SECTION */
 .my-education-section {
   padding-top: 32px;
 }
@@ -188,9 +190,9 @@ body {
   color: #000000;
   margin: 13px 0;
 }
+/*#endregion MY EDUCATION SECTION */
 
-/* Sidebar section */
-
+/*#region SIDEBAR SECTION */
 .sidebar-section {
   background-color: #1f1f1f;
   width: 470px;
@@ -215,9 +217,9 @@ img {
   color: #ffffff;
   margin: 25px 0 13px 0;
 }
+/*#endregion SIDEBAR SECTION */
 
-/* Contacts section */
-
+/*#region CONTACTS SECTION */
 .contacts-icon {
   width: 18px;
   height: 18px;
@@ -239,9 +241,9 @@ img {
   color: #ffffff;
   opacity: 1;
 }
+/*#endregion CONTACTS SECTION */
 
-/* Skills section */
-
+/*#region SCILLS SECTION */
 .skills-list {
   padding-left: 22px;
 }
@@ -257,3 +259,4 @@ img {
   line-height: 30px;
   color: #ffffff;
 }
+/*#endregion SCILLS SECTION */
