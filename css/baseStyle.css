@@ -40,7 +40,7 @@ body {
 .about-me-section {
   height: 534px;
   padding: 55px 115px 0 115px;
-  background-image: linear-gradient(rgba(100, 100, 100, 0.5), rgba(100, 100, 100, 1));
+  background-image: linear-gradient(rgba(50, 50, 50, 0.45), rgba(35, 35, 35, 1));
   background-size: contain;
   background-position: center;
 }
@@ -191,14 +191,14 @@ body {
 
 /*#region SIDEBAR SECTION */
 .sidebar-section {
-  background-color: #000000;
+  background-color: #151515;
   width: 470px;
-  padding: 7px 0;
+  padding: 50px 0;
 }
 
 img {
   display: block;
-  width: 470px;
+  width: 433px;
 }
 
 .section-of-sidebar {
