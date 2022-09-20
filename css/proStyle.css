@@ -6,7 +6,6 @@ body {
 }
 
 /*#region MINE CONTAINER */
-
 .mine-container {
   display: flex;
   flex-direction: row-reverse;
@@ -16,11 +15,9 @@ body {
   /* margin: 40px auto; */
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
-
 /*#endregion MINE CONTAINER */
 
 /*#region MINE CONTANT SECTION */
-
 .main-contant-section {
   padding: 50px 0px 50px 0px;
 }
