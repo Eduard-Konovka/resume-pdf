@@ -68,11 +68,11 @@ body {
 }
 
 .about-me-description {
-  width: 730px;
-  padding: 13px 0 13px 13px;
+  width: 735px;
+  padding: 13px;
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 30px;
   background-color: #171717;
   color: #ffffff;
@@ -101,7 +101,7 @@ body {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
-  color: #595959;
+  color: #000000;
   margin-left: 5px;
 }
 .my-projects-link {
@@ -109,7 +109,7 @@ body {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
-  color: #595959;
+  color: #000000;
 }
 
 .my-projects-bracket {
@@ -141,7 +141,7 @@ body {
 }
 
 .my-work-experience-position-auxiliary {
-  color: #8b7e6d;
+  color: #000000;
 }
 
 .my-work-experience-period {
@@ -149,12 +149,12 @@ body {
   font-weight: normal;
   font-size: 17px;
   line-height: 22px;
-  color: #a0a0a0;
+  color: #000000;
   margin: 0 0 13px 0;
 }
 
 .my-work-experience-devider {
-  color: #8b7e6d;
+  color: #000000;
 }
 
 .my-work-experience-duties {
@@ -166,11 +166,11 @@ body {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
-  color: #595959;
+  color: #000000;
 }
 
 .my-work-experience-company {
-  color: #bd3208;
+  color: #922200;
 }
 /*#endregion MY WORK EXPIRIENCE SECTION */
 
@@ -246,7 +246,7 @@ img {
 }
 
 .skills-item {
-  color: #bd3208;
+  color: #922200;
 }
 
 .skills-item-text {
