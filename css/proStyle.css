@@ -19,7 +19,7 @@ body {
 
 /*#region MINE CONTANT SECTION */
 .main-contant-section {
-  padding: 50px 0px 50px 0px;
+  padding: 0px 0px 50px 0px;
 }
 
 .second-contant-section {
@@ -38,8 +38,8 @@ body {
 
 /*#region ABOUT ME SECTION */
 .about-me-section {
-  height: 534px;
-  padding: 55px 115px 0 115px;
+  height: 570px;
+  padding: 80px 115px 0 115px;
   background-image: linear-gradient(rgba(150, 150, 150, 1), rgba(150, 150, 150, 0.1)), url(../img/code.jpg);
   background-size: contain;
   background-position: center;
@@ -64,15 +64,15 @@ body {
   font-size: 57px;
   line-height: 70px;
   color: #000000;
-  margin-bottom: 32px;
+  margin-bottom: 40px;
 }
 
 .about-me-description {
-  width: 730px;
-  padding: 13px 0 13px 13px;
+  width: 738px;
+  padding: 13px;
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 22px;
   line-height: 30px;
   background-color: #171717;
   color: #ffffff;
@@ -101,7 +101,7 @@ body {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
-  color: #595959;
+  color: #000000;
   margin-left: 5px;
 }
 .my-projects-link {
@@ -109,7 +109,7 @@ body {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
-  color: #595959;
+  color: #000000;
 }
 
 .my-projects-bracket {
@@ -141,7 +141,7 @@ body {
 }
 
 .my-work-experience-position-auxiliary {
-  color: #8b7e6d;
+  color: #000000;
 }
 
 .my-work-experience-period {
@@ -149,12 +149,12 @@ body {
   font-weight: normal;
   font-size: 17px;
   line-height: 22px;
-  color: #a0a0a0;
+  color: #000000;
   margin: 0 0 13px 0;
 }
 
 .my-work-experience-devider {
-  color: #8b7e6d;
+  color: #000000;
 }
 
 .my-work-experience-duties {
@@ -166,11 +166,11 @@ body {
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
-  color: #595959;
+  color: #000000;
 }
 
 .my-work-experience-company {
-  color: #bd3208;
+  color: #922200;
 }
 /*#endregion MY WORK EXPIRIENCE SECTION */
 
@@ -191,14 +191,14 @@ body {
 
 /*#region SIDEBAR SECTION */
 .sidebar-section {
-  background-color: #151515;
+  background-color: #000000;
   width: 470px;
-  padding: 50px 0;
+  padding: 10px 0;
 }
 
 img {
   display: block;
-  width: 433px;
+  width: 470px;
 }
 
 .section-of-sidebar {
@@ -246,7 +246,7 @@ img {
 }
 
 .skills-item {
-  color: #bd3208;
+  color: #922200;
 }
 
 .skills-item-text {
