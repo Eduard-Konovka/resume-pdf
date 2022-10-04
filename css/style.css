@@ -178,6 +178,10 @@ body {
   padding-top: 32px;
 }
 
+.my-education-item {
+  margin-bottom: 30px;
+}
+
 .my-education-position-specialty {
   font-style: normal;
   font-weight: bold;
@@ -185,6 +189,16 @@ body {
   line-height: 22px;
   color: #000000;
   margin: 13px 0;
+}
+
+.my-education-certificate {
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.7;
+}
+
+.my-education-certificate:hover {
+  opacity: 1;
 }
 /*#endregion MY EDUCATION SECTION */
 
