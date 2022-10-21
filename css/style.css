@@ -10,16 +10,15 @@ body {
   display: flex;
   flex-direction: row-reverse;
   width: 1600px;
-  height: 2262px;
+  /* height: 2262px; */
   background-color: #ffffff;
-  /* margin: 40px auto; */
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 /*#endregion MINE CONTAINER */
 
 /*#region MINE CONTANT SECTION */
 .main-contant-section {
-  padding: 50px 0px 50px 0px;
+  padding: 50px 0px 0px 0px;
 }
 
 .second-contant-section {
@@ -180,6 +179,8 @@ body {
 
 .my-education-item {
   margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .my-education-position-specialty {
@@ -191,14 +192,17 @@ body {
   margin: 13px 0;
 }
 
-.my-education-certificate {
+.my-education-certificate-box {
   text-decoration: none;
-  color: inherit;
-  opacity: 0.7;
+}
+
+.my-education-certificate {
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .my-education-certificate:hover {
-  opacity: 1;
+  box-shadow: 0.2vw 0.5vw 0.5vw #56ca21;
+  transform: scale(1.05);
 }
 /*#endregion MY EDUCATION SECTION */
 
