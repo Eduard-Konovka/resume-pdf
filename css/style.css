@@ -169,6 +169,11 @@ body {
 
 .my-work-experience-company {
   color: #922200;
+  text-decoration: none;
+}
+
+.my-work-experience-company:hover {
+  color: #ee3800;
 }
 /*#endregion MY WORK EXPIRIENCE SECTION */
 
