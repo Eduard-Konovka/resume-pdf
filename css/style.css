@@ -10,8 +10,7 @@ body {
   display: flex;
   flex-direction: row-reverse;
   width: 1600px;
-  /* height: 2262px; */
-  background-color: #ffffff;
+  background-color: #fdfdfd;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 /*#endregion MINE CONTAINER */
@@ -125,8 +124,8 @@ body {
 /*#endregion MY PROJECTS SECTION */
 
 /*#region MY WORK EXPIRIENCE SECTION */
-.my-work-experience-company-block {
-  margin: 0 0 0 0;
+.my-work-item {
+  margin-bottom: 30px;
 }
 
 .my-work-experience-position,
