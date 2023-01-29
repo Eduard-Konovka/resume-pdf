@@ -10,6 +10,7 @@ body {
   display: flex;
   flex-direction: row-reverse;
   width: 1600px;
+  height: 2262px;
   background-color: #fdfdfd;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
@@ -86,6 +87,7 @@ body {
 }
 
 .my-projects-item {
+  margin-bottom: 20px;
   color: #000000;
   font-weight: 700;
 }
@@ -178,6 +180,7 @@ body {
 
 /*#region MY EDUCATION SECTION */
 .my-education-section {
+  width: 937px;
   padding-top: 32px;
 }
 
