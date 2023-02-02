@@ -87,7 +87,7 @@ body {
 }
 
 .my-projects-item {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   color: #000000;
   font-weight: 700;
 }
@@ -181,7 +181,6 @@ body {
 /*#region MY EDUCATION SECTION */
 .my-education-section {
   width: 937px;
-  padding-top: 32px;
 }
 
 .my-education-item {
