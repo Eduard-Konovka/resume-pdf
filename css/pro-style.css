@@ -104,12 +104,17 @@ body {
   color: #000000;
   margin-left: 5px;
 }
+
 .my-projects-link {
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 30px;
   color: #000000;
+}
+
+.my-projects-link:hover {
+  color: #888888;
 }
 
 .my-projects-bracket {
